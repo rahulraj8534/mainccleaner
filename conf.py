@@ -5,7 +5,7 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 
 # Project information
-project = 'webrootmain'
+project = 'Ccleaner Main'
 author = 'Author'
 
 # -- General configuration ---------------------------------------------------
